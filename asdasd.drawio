@@ -1,59 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T00:45:31.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" version="20.8.20" etag="LjARsmKuPZco50b12_fM" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T02:03:35.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" version="20.8.20" etag="CVcH0tYszJKgIRibLyQk" type="github">
   <diagram id="LIIfMxF-B3oKmWZ_cDC5" name="Página-1">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-32" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="20.560000000000002" y="305.51000000000005" width="269.44" height="589.49" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-29" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157.87" y="649" width="520" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-28" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="311.72" width="530" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="120" width="410" height="400" as="geometry" />
+          <mxGeometry width="520" height="520" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="400" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="NAz4lxIQxZcFlNQPm2LB-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="440" height="300" as="geometry" />
+          <mxGeometry x="320" width="500" height="520" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-5" value="Frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-6" value="Backend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="743.51" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-7" value="Mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="183" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/html-1.svg;" vertex="1" parent="1">
-          <mxGeometry x="210" y="222.59" width="38.58" height="44.18" as="geometry" />
+          <mxGeometry x="100.00000000000001" y="75.82" width="38.58" height="44.18" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/css-3.svg;" vertex="1" parent="1">
-          <mxGeometry x="170" y="292.77" width="40" height="45.81" as="geometry" />
+          <mxGeometry x="40.000000000000014" y="176.77999999999997" width="40" height="45.81" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/logo-javascript.svg;" vertex="1" parent="1">
-          <mxGeometry x="393.18" y="169.99999999999997" width="40" height="40" as="geometry" />
+          <mxGeometry x="397.87" y="79.99999999999997" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/php-1.svg;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="76.47" height="40" as="geometry" />
+          <mxGeometry x="640.65" y="102.98" width="76.47" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/python-5.svg;" vertex="1" parent="1">
-          <mxGeometry x="644.34" y="340" width="53.51" height="53.31" as="geometry" />
+          <mxGeometry x="717.12" y="270" width="53.51" height="53.31" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/c--4.svg;" vertex="1" parent="1">
-          <mxGeometry x="393.99999999999994" y="410" width="53.31" height="60" as="geometry" />
+          <mxGeometry x="376.68999999999994" y="540" width="53.31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/ruby.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="266.77000000000004" width="47.85" height="47.66" as="geometry" />
+          <mxGeometry x="682.96" y="180" width="47.85" height="47.66" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/dotnet.svg;" vertex="1" parent="1">
-          <mxGeometry x="393.18" y="350.00000000000006" width="60" height="57.23" as="geometry" />
+          <mxGeometry x="428.18000000000006" y="340.00000000000006" width="60" height="57.23" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/express-109.svg;" vertex="1" parent="1">
-          <mxGeometry x="490" y="157.41" width="112.23" height="32.59" as="geometry" />
+          <mxGeometry x="477.77" y="29.999999999999993" width="112.23" height="32.59" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg;" vertex="1" parent="1">
-          <mxGeometry x="385" y="222.59" width="56.36" height="62.09" as="geometry" />
+          <mxGeometry x="430" y="142.98000000000002" width="56.36" height="62.09" as="geometry" />
         </mxCell>
         <mxCell id="NAz4lxIQxZcFlNQPm2LB-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/nextjs-2.svg;" vertex="1" parent="1">
-          <mxGeometry x="385" y="292.77" width="72.87" height="44" as="geometry" />
+          <mxGeometry x="341" y="161.07" width="72.87" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/android.svg;" vertex="1" parent="1">
+          <mxGeometry x="501.88" y="1010" width="64" height="71.72" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/ios-2.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1030" width="63.18" height="63.18" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/java-14.svg;" vertex="1" parent="1">
+          <mxGeometry x="506.39" y="720" width="55" height="74.29" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/kotlin-1.svg;" vertex="1" parent="1">
+          <mxGeometry x="495.88" y="900" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/spring-3.svg;" vertex="1" parent="1">
+          <mxGeometry x="536.15" y="420" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/django.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="56.69" height="72.25" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/sinatra.svg;" vertex="1" parent="1">
+          <mxGeometry x="555.87" y="197.41" width="92.2" height="62.59" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/laravel-2.svg;" vertex="1" parent="1">
+          <mxGeometry x="536.15" y="91.07" width="67.71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/swift-15.svg;" vertex="1" parent="1">
+          <mxGeometry x="261" y="895" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/dart.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="565.29" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/flutter.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="728.29" width="53.24" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/blazor.svg;" vertex="1" parent="1">
+          <mxGeometry x="334.54" y="380" width="103.33" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/java.svg;" vertex="1" parent="1">
+          <mxGeometry x="526.15" y="548.29" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/xamarin.svg;" vertex="1" parent="1">
+          <mxGeometry x="376.69" y="680" width="87.33" height="77.76" as="geometry" />
+        </mxCell>
+        <mxCell id="NAz4lxIQxZcFlNQPm2LB-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.worldvectorlogo.com/logos/flutter-logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999996" y="366.5" width="96.69" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
